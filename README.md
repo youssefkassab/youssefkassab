@@ -41,4 +41,4 @@ I recently completed a comprehensive deep scan of my repositories to isolate my 
 
 When I am not compiling code or configuring legacy hardware into home servers, I apply the same discipline to athletics and the outdoors. I am a competitive swimmer of over 10 years, a national-level Kung-Fu champion, and an urban gardener specializing in jasmine cultivation. I'm also an avid reader of classic literature (Dickens, Dumas, Conan Doyle) and a massive Marvel Cinematic Universe fan.
 
-📫 **Let's Connect:** [Insert your LinkedIn or Portfolio link here]
+📫 **Let's Connect:** [https://www.linkedin.com/in/youssef-kassab/]
