@@ -1,44 +1,21 @@
-# Hi there, I'm Youssef Kassab 👋
+# 💫 About Me:
+Hi there, I'm Youssef Kassab 👋<br>Software Engineer | Founder of YK Software Studio | Tech Educator<br><br>I am an 18-year-old developer based in Cairo, Egypt, currently completing the Thanaweya Amma (Math stream). I specialize in building highly optimized AI systems, orchestrating full-stack infrastructure, and exploring hardware modification. I exclusively leverage free, open-source toolchains to build scalable, production-ready environments.<br><br>Currently, I am preparing for international university programs in Robotics and Electrical & Computer Engineering.<br><br>🚀 Technical Experience & Leadership<br>Founder & Lead Developer at YK Software Studio: Architecting and delivering full-stack digital solutions and startup tools.<br>Instructor at HEMEX Programming Academy: Managing student instruction and hardware infrastructure.<br>Lead Developer & Speaker at Innovation Day (Man Ahyaha Foundation): Built standalone, offline network tools for a large-scale youth event and presented technical solutions.<br>💻 Core Tech Stack<br>Backend & DevOps: Node.js, Express, Docker, Docker Compose, MySQL, MongoDB<br>AI & Machine Learning: ONNX Runtime, Python, Prompt Engineering, Scikit-learn<br>Frontend: React, Flutter, JavaScript, Bootstrap<br>Infrastructure: Linux, Vercel, VPS Deployment, Serverless Architecture<br>🏆 Flagship Portfolio Projects<br>I recently completed a comprehensive deep scan of my repositories to isolate my enterprise-ready architectures:<br><br>🌐 Digitopia: Scalable educational platform featuring a robust backend and deployment architecture.<br>⚡ Degla Smart: Full-stack deployment with Express, MySQL, and Cloudinary integration.<br>🐳 DevOps Infrastructure Suite: Multi-stack container orchestration featuring Node.js, MongoDB Replica Sets, and persistent volumes.<br>🧠 Personality Predictor: Cross-platform ML binary classification deployed via ONNX Runtime for sub-100ms serverless inference.<br>✍️ IELTS Essay Scorer: Automated machine learning pipeline for natural language evaluation.<br>🥋 Beyond the Terminal<br>When I am not compiling code or configuring legacy hardware into home servers, I apply the same discipline to athletics and the outdoors. I am a competitive swimmer of over 10 years, a national-level Kung-Fu champion, and an urban gardener specializing in jasmine cultivation. I'm also an avid reader of classic literature (Dickens, Dumas, Conan Doyle) and a massive Marvel Cinematic Universe fan.<br><br>📫 Let's Connect: [https://www.linkedin.com/in/youssef-kassab/]
 
-**Software Engineer | Founder of YK Software Studio | Tech Educator**
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/youssefkassab_1/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-kassab/) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:youssefkassab.linkedin@gmail.com) 
 
-I am an 18-year-old developer based in Cairo, Egypt, currently completing the Thanaweya Amma (Math stream). I specialize in building highly optimized AI systems, orchestrating full-stack infrastructure, and exploring hardware modification. I exclusively leverage free, open-source toolchains to build scalable, production-ready environments. 
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
-Currently, I am preparing for international university programs in Robotics and Electrical & Computer Engineering.
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=youssefkassab&theme=react&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=youssefkassab&theme=react&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=youssefkassab&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
----
-
-### 🚀 Technical Experience & Leadership
-
-* **Founder & Lead Developer** at **YK Software Studio**: Architecting and delivering full-stack digital solutions and startup tools.
-* **Instructor** at **HEMEX Programming Academy**: Managing student instruction and hardware infrastructure.
-* **Lead Developer & Speaker** at **Innovation Day (Man Ahyaha Foundation)**: Built standalone, offline network tools for a large-scale youth event and presented technical solutions.
-
----
-
-### 💻 Core Tech Stack
-
-* **Backend & DevOps:** Node.js, Express, Docker, Docker Compose, MySQL, MongoDB
-* **AI & Machine Learning:** ONNX Runtime, Python, Prompt Engineering, Scikit-learn
-* **Frontend:** React, Flutter, JavaScript, Bootstrap
-* **Infrastructure:** Linux, Vercel, VPS Deployment, Serverless Architecture
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=youssefkassab&theme=react&no-frame=true&no-bg=true&margin-w=4)
 
 ---
-
-### 🏆 Flagship Portfolio Projects
-
-I recently completed a comprehensive deep scan of my repositories to isolate my enterprise-ready architectures:
-
-* 🌐 **[Digitopia](https://alm-quest.onrender.com):** Scalable educational platform featuring a robust backend and deployment architecture.
-* ⚡ **[Degla Smart](https://degla-smart.onrender.com):** Full-stack deployment with Express, MySQL, and Cloudinary integration.
-* 🐳 **[DevOps Infrastructure Suite](https://github.com/youssefkassab/devops-infrastructure-suite):** Multi-stack container orchestration featuring Node.js, MongoDB Replica Sets, and persistent volumes.
-* 🧠 **[Personality Predictor](https://github.com/youssefkassab/personality-predictor):** Cross-platform ML binary classification deployed via ONNX Runtime for sub-100ms serverless inference.
-* ✍️ **[IELTS Essay Scorer](https://github.com/youssefkassab/ielts-essay-scorer):** Automated machine learning pipeline for natural language evaluation.
-
----
-
-### 🥋 Beyond the Terminal
-
-When I am not compiling code or configuring legacy hardware into home servers, I apply the same discipline to athletics and the outdoors. I am a competitive swimmer of over 10 years, a national-level Kung-Fu champion, and an urban gardener specializing in jasmine cultivation. I'm also an avid reader of classic literature (Dickens, Dumas, Conan Doyle) and a massive Marvel Cinematic Universe fan.
-
-📫 **Let's Connect:** [https://www.linkedin.com/in/youssef-kassab/]
+[![](https://komarev.com/ghpvc/?username=youssefkassab&icon=2&color=0)](https://visitcount.itsvg.in)
