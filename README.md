@@ -18,4 +18,4 @@ Hi there, I'm Youssef Kassab 👋<br>Software Engineer | Founder of YK Software 
 ![](https://github-profile-trophy.vercel.app/?username=youssefkassab&theme=react&no-frame=true&no-bg=true&margin-w=4)
 
 ---
-[![](https://komarev.com/ghpvc/?username=youssefkassab&icon=2&color=blue)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=youssefkassab&icon=2&color=blue)](https://visitcount.itsvg.in) 
